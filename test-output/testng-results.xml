@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-02T16:08:26 COT" name="Default suite" finished-at="2024-04-02T16:08:30 COT" duration-ms="3937">
+    <groups>
+    </groups>
+    <test started-at="2024-04-02T16:08:26 COT" name="Default test" finished-at="2024-04-02T16:08:30 COT" duration-ms="3937">
+      <class name="com.exercise.one.TestNGRestAssured">
+        <test-method is-config="true" signature="createRestSpecification()[pri:0, instance:com.exercise.one.TestNGRestAssured@6c1a5b54]" started-at="2024-04-02T16:08:26 COT" name="createRestSpecification" finished-at="2024-04-02T16:08:26 COT" duration-ms="611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createRestSpecification -->
+        <test-method signature="listUsers()[pri:0, instance:com.exercise.one.TestNGRestAssured@6c1a5b54]" started-at="2024-04-02T16:08:26 COT" name="listUsers" finished-at="2024-04-02T16:08:28 COT" duration-ms="1732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listUsers -->
+        <test-method is-config="true" signature="createRestSpecification()[pri:0, instance:com.exercise.one.TestNGRestAssured@6c1a5b54]" started-at="2024-04-02T16:08:28 COT" name="createRestSpecification" finished-at="2024-04-02T16:08:28 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createRestSpecification -->
+        <test-method signature="createUser()[pri:1, instance:com.exercise.one.TestNGRestAssured@6c1a5b54]" started-at="2024-04-02T16:08:28 COT" name="createUser" finished-at="2024-04-02T16:08:29 COT" duration-ms="530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method is-config="true" signature="createRestSpecification()[pri:0, instance:com.exercise.one.TestNGRestAssured@6c1a5b54]" started-at="2024-04-02T16:08:29 COT" name="createRestSpecification" finished-at="2024-04-02T16:08:29 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createRestSpecification -->
+        <test-method signature="updateUser()[pri:2, instance:com.exercise.one.TestNGRestAssured@6c1a5b54]" started-at="2024-04-02T16:08:29 COT" name="updateUser" finished-at="2024-04-02T16:08:29 COT" duration-ms="494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUser -->
+        <test-method is-config="true" signature="createRestSpecification()[pri:0, instance:com.exercise.one.TestNGRestAssured@6c1a5b54]" started-at="2024-04-02T16:08:29 COT" name="createRestSpecification" finished-at="2024-04-02T16:08:29 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createRestSpecification -->
+        <test-method signature="getUser()[pri:3, instance:com.exercise.one.TestNGRestAssured@6c1a5b54]" started-at="2024-04-02T16:08:29 COT" name="getUser" finished-at="2024-04-02T16:08:30 COT" duration-ms="524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser -->
+      </class> <!-- com.exercise.one.TestNGRestAssured -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
