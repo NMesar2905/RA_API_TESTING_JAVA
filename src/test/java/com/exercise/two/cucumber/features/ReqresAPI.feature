@@ -15,7 +15,7 @@ Feature: Testing Reqres API Methods
       | 3    |
 	
 	
-	@GetUser
+	@GetUser @Regression
   Scenario Outline: Get user info
     Given The "id" "<id>" as path param
     When User calls "GetUser" with a "GET" request
