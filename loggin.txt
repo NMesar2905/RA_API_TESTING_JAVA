@@ -11,12 +11,12 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
 HTTP/1.1 200 OK
-Date: Tue, 02 Apr 2024 21:07:37 GMT
+Date: Thu, 04 Apr 2024 13:17:26 GMT
 Content-Type: application/json; charset=utf-8
 Transfer-Encoding: chunked
 Connection: keep-alive
-Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1712005320&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=LHbDER8FJ%2F8Jyh%2BsRAkvmWg3GfHEdwiYCOT%2B%2BCg5ADw%3D"}]}
-Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1712005320&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=LHbDER8FJ%2F8Jyh%2BsRAkvmWg3GfHEdwiYCOT%2B%2BCg5ADw%3D
+Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1712158573&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=zhrEaNTTcM9FYcLRQCXpK%2Ba4zkMqDhgNWzzVCCOb%2Bik%3D"}]}
+Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1712158573&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=zhrEaNTTcM9FYcLRQCXpK%2Ba4zkMqDhgNWzzVCCOb%2Bik%3D
 Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
 X-Powered-By: Express
 Access-Control-Allow-Origin: *
@@ -24,10 +24,10 @@ Etag: W/"406-ut0vzoCuidvyMf8arZpMpJ6ZRDw"
 Via: 1.1 vegur
 Cache-Control: max-age=14400
 CF-Cache-Status: HIT
-Age: 6779
+Age: 6289
 Vary: Accept-Encoding
 Server: cloudflare
-CF-RAY: 86e3ca1cab210971-MIA
+CF-RAY: 86f194211eac74ba-MIA
 Content-Encoding: gzip
 
 {
@@ -101,34 +101,34 @@ Body:
     "job": "Developer"
 }
 HTTP/1.1 201 Created
-Date: Tue, 02 Apr 2024 21:07:38 GMT
+Date: Thu, 04 Apr 2024 13:17:27 GMT
 Content-Type: application/json; charset=utf-8
 Content-Length: 86
 Connection: keep-alive
-Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1712092058&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=JxOOdZVMv0lZhJ0UfUCfPLIE3H5euCJJw1WybXw6kYE%3D"}]}
-Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1712092058&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=JxOOdZVMv0lZhJ0UfUCfPLIE3H5euCJJw1WybXw6kYE%3D
+Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1712236647&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=NR6jlV%2BEtL88NkIRPsYMAH29yf25NNRg9oeE9jfUljc%3D"}]}
+Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1712236647&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=NR6jlV%2BEtL88NkIRPsYMAH29yf25NNRg9oeE9jfUljc%3D
 Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
 X-Powered-By: Express
 Access-Control-Allow-Origin: *
-Etag: W/"56-SUxH4tVaddxPRavjvBkJDRYRJMU"
+Etag: W/"56-1Hql7e6Ul2j/48ZGDdVruF+8678"
 Via: 1.1 vegur
 CF-Cache-Status: DYNAMIC
 Server: cloudflare
-CF-RAY: 86e3ca21d8f13376-MIA
+CF-RAY: 86f194279f394988-MIA
 
 {
     "name": "Nicolas",
     "job": "Developer",
-    "id": "758",
-    "createdAt": "2024-04-02T21:07:38.092Z"
+    "id": "452",
+    "createdAt": "2024-04-04T13:17:27.800Z"
 }
 Request method:	PUT
-Request URI:	https://reqres.in/api/users/758
+Request URI:	https://reqres.in/api/users/452
 Proxy:			<none>
 Request params:	<none>
 Query params:	<none>
 Form params:	<none>
-Path params:	id=758
+Path params:	id=452
 Headers:		Accept=*/*
 				Content-Type=application/json
 Cookies:		<none>
@@ -139,46 +139,46 @@ Body:
     "job": "Designer"
 }
 HTTP/1.1 200 OK
-Date: Tue, 02 Apr 2024 21:07:38 GMT
+Date: Thu, 04 Apr 2024 13:17:28 GMT
 Content-Type: application/json; charset=utf-8
 Transfer-Encoding: chunked
 Connection: keep-alive
-Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1712092058&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=JxOOdZVMv0lZhJ0UfUCfPLIE3H5euCJJw1WybXw6kYE%3D"}]}
-Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1712092058&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=JxOOdZVMv0lZhJ0UfUCfPLIE3H5euCJJw1WybXw6kYE%3D
+Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1712236648&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=dGkiaB9cEnMBjm1qJj590zr1hbvXspAUWHY9aGFi48A%3D"}]}
+Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1712236648&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=dGkiaB9cEnMBjm1qJj590zr1hbvXspAUWHY9aGFi48A%3D
 Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
 X-Powered-By: Express
 Access-Control-Allow-Origin: *
-Etag: W/"4a-K3j1CW1XiYziwSh9DiEuxNfKy14"
+Etag: W/"4a-aWlKg5xQqXL6fKy5XK4vmDNZmc8"
 Via: 1.1 vegur
 CF-Cache-Status: DYNAMIC
 Vary: Accept-Encoding
 Server: cloudflare
-CF-RAY: 86e3ca250fef0291-MIA
+CF-RAY: 86f1942af86c8759-MIA
 Content-Encoding: gzip
 
 {
     "name": "Natalia",
     "job": "Designer",
-    "updatedAt": "2024-04-02T21:07:38.598Z"
+    "updatedAt": "2024-04-04T13:17:28.343Z"
 }
 Request method:	DELETE
-Request URI:	https://reqres.in/api/users/758
+Request URI:	https://reqres.in/api/users/452
 Proxy:			<none>
 Request params:	<none>
 Query params:	<none>
 Form params:	<none>
-Path params:	id=758
+Path params:	id=452
 Headers:		Accept=*/*
 				Content-Type=application/json
 Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
 HTTP/1.1 204 No Content
-Date: Tue, 02 Apr 2024 21:07:39 GMT
+Date: Thu, 04 Apr 2024 13:17:28 GMT
 Content-Length: 0
 Connection: keep-alive
-Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1712092059&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=4UDyBsmbYKtyegB4F1%2B1Y2NscoLlN7BKC9gnloJJjQI%3D"}]}
-Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1712092059&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=4UDyBsmbYKtyegB4F1%2B1Y2NscoLlN7BKC9gnloJJjQI%3D
+Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1712236648&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=dGkiaB9cEnMBjm1qJj590zr1hbvXspAUWHY9aGFi48A%3D"}]}
+Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1712236648&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=dGkiaB9cEnMBjm1qJj590zr1hbvXspAUWHY9aGFi48A%3D
 Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
 X-Powered-By: Express
 Access-Control-Allow-Origin: *
@@ -186,4 +186,509 @@ Etag: W/"2-vyGp6PvFo4RvsFtPoIWeCReyIC8"
 Via: 1.1 vegur
 CF-Cache-Status: DYNAMIC
 Server: cloudflare
-CF-RAY: 86e3ca2869d8748a-MIA
+CF-RAY: 86f1942e58534c26-MIA
+Request method:	GET
+Request URI:	https://reqres.in/api/users?page=1
+Proxy:			<none>
+Request params:	<none>
+Query params:	page=1
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Thu, 04 Apr 2024 13:17:29 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1712232994&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8Css0itx28kaxoIhyyEuAhHYCsJATwD4FjAjuXcEnMk%3D"}]}
+Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1712232994&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=8Css0itx28kaxoIhyyEuAhHYCsJATwD4FjAjuXcEnMk%3D
+Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Etag: W/"3e4-2RLXvr5wTg9YQ6aH95CkYoFNuO8"
+Via: 1.1 vegur
+Cache-Control: max-age=14400
+CF-Cache-Status: HIT
+Age: 3655
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 86f194353a39b3ef-MIA
+Content-Encoding: gzip
+
+{
+    "page": 1,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 1,
+            "email": "george.bluth@reqres.in",
+            "first_name": "George",
+            "last_name": "Bluth",
+            "avatar": "https://reqres.in/img/faces/1-image.jpg"
+        },
+        {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+        {
+            "id": 3,
+            "email": "emma.wong@reqres.in",
+            "first_name": "Emma",
+            "last_name": "Wong",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg"
+        },
+        {
+            "id": 4,
+            "email": "eve.holt@reqres.in",
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg"
+        },
+        {
+            "id": 5,
+            "email": "charles.morris@reqres.in",
+            "first_name": "Charles",
+            "last_name": "Morris",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg"
+        },
+        {
+            "id": 6,
+            "email": "tracey.ramos@reqres.in",
+            "first_name": "Tracey",
+            "last_name": "Ramos",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+Request method:	GET
+Request URI:	https://reqres.in/api/users?page=2
+Proxy:			<none>
+Request params:	<none>
+Query params:	page=2
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Thu, 04 Apr 2024 13:17:30 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1712158573&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=zhrEaNTTcM9FYcLRQCXpK%2Ba4zkMqDhgNWzzVCCOb%2Bik%3D"}]}
+Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1712158573&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=zhrEaNTTcM9FYcLRQCXpK%2Ba4zkMqDhgNWzzVCCOb%2Bik%3D
+Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Etag: W/"406-ut0vzoCuidvyMf8arZpMpJ6ZRDw"
+Via: 1.1 vegur
+Cache-Control: max-age=14400
+CF-Cache-Status: HIT
+Age: 6293
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 86f19436ecfa8dba-MIA
+Content-Encoding: gzip
+
+{
+    "page": 2,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        {
+            "id": 7,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id": 8,
+            "email": "lindsay.ferguson@reqres.in",
+            "first_name": "Lindsay",
+            "last_name": "Ferguson",
+            "avatar": "https://reqres.in/img/faces/8-image.jpg"
+        },
+        {
+            "id": 9,
+            "email": "tobias.funke@reqres.in",
+            "first_name": "Tobias",
+            "last_name": "Funke",
+            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+        },
+        {
+            "id": 10,
+            "email": "byron.fields@reqres.in",
+            "first_name": "Byron",
+            "last_name": "Fields",
+            "avatar": "https://reqres.in/img/faces/10-image.jpg"
+        },
+        {
+            "id": 11,
+            "email": "george.edwards@reqres.in",
+            "first_name": "George",
+            "last_name": "Edwards",
+            "avatar": "https://reqres.in/img/faces/11-image.jpg"
+        },
+        {
+            "id": 12,
+            "email": "rachel.howell@reqres.in",
+            "first_name": "Rachel",
+            "last_name": "Howell",
+            "avatar": "https://reqres.in/img/faces/12-image.jpg"
+        }
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+Request method:	GET
+Request URI:	https://reqres.in/api/users?page=3
+Proxy:			<none>
+Request params:	<none>
+Query params:	page=3
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Thu, 04 Apr 2024 13:17:30 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1712133285&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=eMXwfneq2WhGciel%2B8T8a3FmKhCvrDr%2BRvbUnqBC%2BvM%3D"}]}
+Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1712133285&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=eMXwfneq2WhGciel%2B8T8a3FmKhCvrDr%2BRvbUnqBC%2BvM%3D
+Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Etag: W/"c5-hJoimgtl6KhaZadfgKS3TQ7g00U"
+Via: 1.1 vegur
+Cache-Control: max-age=14400
+CF-Cache-Status: HIT
+Age: 471
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 86f194388aea31e9-MIA
+Content-Encoding: gzip
+
+{
+    "page": 3,
+    "per_page": 6,
+    "total": 12,
+    "total_pages": 2,
+    "data": [
+        
+    ],
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+Request method:	GET
+Request URI:	https://reqres.in/api/users/2
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	id=2
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Thu, 04 Apr 2024 13:17:30 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1712119800&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=spo%2B3Dc8AbJUgG3DgNrkhLaDARH9jFxvuc2%2Fs7fA1xk%3D"}]}
+Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1712119800&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=spo%2B3Dc8AbJUgG3DgNrkhLaDARH9jFxvuc2%2Fs7fA1xk%3D
+Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Etag: W/"118-pbdwwFo9SKNhD3Lx5iHJyngpq00"
+Via: 1.1 vegur
+Cache-Control: max-age=14400
+CF-Cache-Status: HIT
+Age: 6280
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 86f1943aabb0334d-MIA
+Content-Encoding: gzip
+
+{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+Request method:	GET
+Request URI:	https://reqres.in/api/users/3
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	id=3
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Thu, 04 Apr 2024 13:17:30 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1711990182&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=47zltmlb1qUjz%2FETDG%2FtQaJxqzDkOfd4cicGj77Mj7g%3D"}]}
+Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1711990182&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=47zltmlb1qUjz%2FETDG%2FtQaJxqzDkOfd4cicGj77Mj7g%3D
+Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Etag: W/"112-EeInfgHWtnxhYRnwgZUB667e024"
+Via: 1.1 vegur
+Cache-Control: max-age=14400
+CF-Cache-Status: HIT
+Age: 469
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 86f1943c59b8da8f-MIA
+Content-Encoding: gzip
+
+{
+    "data": {
+        "id": 3,
+        "email": "emma.wong@reqres.in",
+        "first_name": "Emma",
+        "last_name": "Wong",
+        "avatar": "https://reqres.in/img/faces/3-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+Request method:	GET
+Request URI:	https://reqres.in/api/users/5
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	id=5
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Thu, 04 Apr 2024 13:17:31 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1711560192&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=1E%2FMmqnA6LSw7%2F3alry3EjMckbvVWAD0CFwWRFLlTgw%3D"}]}
+Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1711560192&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=1E%2FMmqnA6LSw7%2F3alry3EjMckbvVWAD0CFwWRFLlTgw%3D
+Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Etag: W/"11c-fbAvBCQSZgUU6dvLRqxYG0dwUTM"
+Via: 1.1 vegur
+Cache-Control: max-age=14400
+CF-Cache-Status: HIT
+Age: 2772
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 86f1943e0dcf9ac0-MIA
+Content-Encoding: gzip
+
+{
+    "data": {
+        "id": 5,
+        "email": "charles.morris@reqres.in",
+        "first_name": "Charles",
+        "last_name": "Morris",
+        "avatar": "https://reqres.in/img/faces/5-image.jpg"
+    },
+    "support": {
+        "url": "https://reqres.in/#support-heading",
+        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    }
+}
+Request method:	POST
+Request URI:	https://reqres.in/api/users
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "Nicolas",
+    "job": "QA Developer"
+}
+HTTP/1.1 201 Created
+Date: Thu, 04 Apr 2024 13:17:32 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 88
+Connection: keep-alive
+Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1712236652&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=fenkslSPTs9J4W9zkNuRDX64p84wJTTgMpcyMB5J094%3D"}]}
+Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1712236652&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=fenkslSPTs9J4W9zkNuRDX64p84wJTTgMpcyMB5J094%3D
+Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Etag: W/"58-IQwj/osrmdgvx4z0TNjKYYQ3mIs"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+CF-RAY: 86f194426fb09ab9-MIA
+
+{
+    "name": "Nicolas",
+    "job": "QA Developer",
+    "id": "62",
+    "createdAt": "2024-04-04T13:17:32.106Z"
+}
+Request method:	POST
+Request URI:	https://reqres.in/api/users
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "Natalia",
+    "job": "Web Designer"
+}
+HTTP/1.1 201 Created
+Date: Thu, 04 Apr 2024 13:17:32 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 89
+Connection: keep-alive
+Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1712236652&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=fenkslSPTs9J4W9zkNuRDX64p84wJTTgMpcyMB5J094%3D"}]}
+Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1712236652&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=fenkslSPTs9J4W9zkNuRDX64p84wJTTgMpcyMB5J094%3D
+Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Etag: W/"59-JiklOCZJHFjNLkNqK3RAf7P4NRQ"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+CF-RAY: 86f19446adaf336a-MIA
+
+{
+    "name": "Natalia",
+    "job": "Web Designer",
+    "id": "887",
+    "createdAt": "2024-04-04T13:17:32.778Z"
+}
+Request method:	POST
+Request URI:	https://reqres.in/api/users
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "Bryan",
+    "job": "QA Mentor"
+}
+HTTP/1.1 201 Created
+Date: Thu, 04 Apr 2024 13:17:33 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 84
+Connection: keep-alive
+Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1712236653&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=iZ5cBgLkjSKqfpOtckl%2BVHRoWV8FB4oLIF3jbf6lQR4%3D"}]}
+Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1712236653&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=iZ5cBgLkjSKqfpOtckl%2BVHRoWV8FB4oLIF3jbf6lQR4%3D
+Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Etag: W/"54-dyR8ok3yR7yEhOf9WEcyaLxBUaw"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+CF-RAY: 86f1944a0e16a4e5-MIA
+
+{
+    "name": "Bryan",
+    "job": "QA Mentor",
+    "id": "680",
+    "createdAt": "2024-04-04T13:17:33.312Z"
+}
+Request method:	PUT
+Request URI:	https://reqres.in/api/users/680
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	id=680
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "Nicolas",
+    "job": "QA Developer"
+}
+HTTP/1.1 200 OK
+Date: Thu, 04 Apr 2024 13:17:33 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1712236653&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=iZ5cBgLkjSKqfpOtckl%2BVHRoWV8FB4oLIF3jbf6lQR4%3D"}]}
+Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1712236653&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&s=iZ5cBgLkjSKqfpOtckl%2BVHRoWV8FB4oLIF3jbf6lQR4%3D
+Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Etag: W/"4e-vfbKR5yaQCasCf21HVWZKyI//ZQ"
+Via: 1.1 vegur
+CF-Cache-Status: DYNAMIC
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 86f1944d3bf73dd7-MIA
+Content-Encoding: gzip
+
+{
+    "name": "Nicolas",
+    "job": "QA Developer",
+    "updatedAt": "2024-04-04T13:17:33.832Z"
+}

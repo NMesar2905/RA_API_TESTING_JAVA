@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.exercise.one.TestNGRestAssured">
+      <class name="com.exercise.three.RequestExternalJSON">
         <methods>
           <include name="createRestSpecification"/>
-          <include name="getUser"/>
+          <include name="createUser"/>
         </methods>
-      </class> <!-- com.exercise.one.TestNGRestAssured -->
+      </class> <!-- com.exercise.three.RequestExternalJSON -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
